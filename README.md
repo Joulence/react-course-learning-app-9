@@ -33,7 +33,7 @@ Follow the steps below to get the project up and running:
 1. Clone the repository:
 
 ```
-git clone [https://github.com/Joulence/react-course-learning-app-9](https://github.com/Joulence/react-course-learning-app-9)>
+git clone https://github.com/Joulence/react-course-learning-app-9.git
 ```
 
 2. Navigate to the frontend and backend directories:
